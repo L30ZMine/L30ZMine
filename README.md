@@ -8,5 +8,5 @@
 - ayo if you have any questions feel free to contact me at L30Zboss@gmail.com
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ
-" target="_blank"><img src="http://www.imgur.com/a/ZqpEj5D" 
+" target="_blank"><img src="https://i.imgur.com/JfNq7TZ.png" 
 alt="guess who just got rickrolled" width="750" height="100" border="10" /></a>
