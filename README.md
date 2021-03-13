@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @L30ZMine
+- 👀 I’m interested in everything (litrally)
