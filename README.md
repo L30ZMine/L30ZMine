@@ -9,4 +9,4 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ
 " target="_blank"><img src="https://i.imgur.com/DlcFrbK.png" 
-alt="guess who just got rickrolled" width="870" height="100" border="10" /></a>
+alt="click here for more informationes" width="870" height="100" border="10" /></a>
