@@ -9,19 +9,19 @@
 - [HD Poker](https://store.steampowered.com/app/797430/HD_Poker_Texas_Holdem/)
 - [Ironsight](https://store.steampowered.com/app/783770/Ironsight/)
 - [Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/)
-- [Muse Dash](
+- [Muse Dash](https://store.steampowered.com/app/774171/Muse_Dash/)
 - [Osu](
-- [Paladins](
-- [Pavlov](
-- [PAYDAY 2](
-- [Rust](
-- [ShellShock Live](
-- [Shotgun Farmers](
-- [Team Fortress 2](
+- [Paladins](https://store.steampowered.com/app/444090/Paladins/)
+- [Pavlov](https://store.steampowered.com/app/555160/Pavlov_VR/)
+- [PAYDAY 2](https://store.steampowered.com/agecheck/app/218620/)
+- [Rust](https://store.steampowered.com/agecheck/app/252490/)
+- [ShellShock Live](https://store.steampowered.com/app/326460/ShellShock_Live/)
+- [Shotgun Farmers](https://store.steampowered.com/app/604240/Shotgun_Farmers/)
+- [Team Fortress 2](https://store.steampowered.com/app/440/Team_Fortress_2/)
 - [Team Fortress Classic](
-- [Uno](
-- [VRChat](
-- [VTOL VR](
+- [Uno](https://store.steampowered.com/app/470220/UNO/)
+- [VRChat](https://store.steampowered.com/app/438100/VRChat/)
+- [VTOL VR](https://store.steampowered.com/app/667970/VTOL_VR/)
 
 ## Extremly good story games
 - [Death Stranding](
