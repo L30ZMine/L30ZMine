@@ -10,7 +10,7 @@
 - [Ironsight](https://store.steampowered.com/app/783770/Ironsight/)
 - [Left 4 Dead 2](https://store.steampowered.com/app/550/Left_4_Dead_2/)
 - [Muse Dash](https://store.steampowered.com/app/774171/Muse_Dash/)
-- [Osu](
+- [Osu](https://osu.ppy.sh/home/download)
 - [Paladins](https://store.steampowered.com/app/444090/Paladins/)
 - [Pavlov](https://store.steampowered.com/app/555160/Pavlov_VR/)
 - [PAYDAY 2](https://store.steampowered.com/agecheck/app/218620/)
@@ -18,25 +18,25 @@
 - [ShellShock Live](https://store.steampowered.com/app/326460/ShellShock_Live/)
 - [Shotgun Farmers](https://store.steampowered.com/app/604240/Shotgun_Farmers/)
 - [Team Fortress 2](https://store.steampowered.com/app/440/Team_Fortress_2/)
-- [Team Fortress Classic](
+- [Team Fortress 2 Classic](https://tf2classic.com/)
 - [Uno](https://store.steampowered.com/app/470220/UNO/)
 - [VRChat](https://store.steampowered.com/app/438100/VRChat/)
 - [VTOL VR](https://store.steampowered.com/app/667970/VTOL_VR/)
 
 ## Extremly good story games
-- [Death Stranding](
-- [Life Is strange: Before the storm](
-- [Half Life](
-- [Half Life 2](
-- [Half Life Alyx](
-- [Papers, Please](
-- [Please don't touch anything](
-- [Emily is away](
-- [Emily is away too](
-- [Resident Evil 2](
-- [Resident Evil 3](
-- [Teardown](
-- [Tony Hawks Pro skater 1+2](
-- [Watch dogs 2](
-- [Sign of Silence](
-- [Yakuza: Like a Dragon](
+- [Death Stranding](https://store.steampowered.com/app/1190460/DEATH_STRANDING/)
+- [Life Is strange: Before the storm](https://store.steampowered.com/agecheck/app/554620/)
+- [Half Life](https://store.steampowered.com/app/70/HalfLife/)
+- [Half Life 2](https://store.steampowered.com/app/220/HalfLife_2/)
+- [Half Life Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/)
+- [Papers, Please](https://store.steampowered.com/app/239030/Papers_Please/)
+- [Please don't touch anything](https://store.steampowered.com/app/354240/Please_Dont_Touch_Anything/)
+- [Emily is away](https://store.steampowered.com/app/417860/Emily_is_Away/)
+- [Emily is away too](https://store.steampowered.com/app/523780/Emily_is_Away_Too/)
+- [Resident Evil 2](https://store.steampowered.com/agecheck/app/883710/)
+- [Resident Evil 3](https://store.steampowered.com/app/952060/Resident_Evil_3/)
+- [Teardown](https://store.steampowered.com/app/1167630/Teardown/)
+- [Tony Hawks Pro skater 1+2](https://www.epicgames.com/store/en-US/p/tony-hawks-pro-skater-1-and-2)
+- [Watch dogs 2](https://store.steampowered.com/app/447040/Watch_Dogs_2/)
+- [Sign of Silence](https://store.steampowered.com/app/1346070/Sign_of_Silence/)
+- [Yakuza: Like a Dragon](https://store.steampowered.com/agecheck/app/1235140/)
