@@ -4,10 +4,7 @@
 - also i use linux and windows
 - i like investing in bitcoin 
 - i also love playing every kind of game (other than card, and mobile games)
-- some good games --> Death Stranding, Yakuza Like a Dragon & <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ
-" target="_blank">
- <"some other">
-
+- some good games --> Death Stranding, Yakuza Like a Dragon & [some others](blub/OTHERGOODGAMES.md)
 - ayo if you have any questions feel free to contact me at L30Zboss@gmail.com
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ
