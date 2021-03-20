@@ -23,7 +23,7 @@
 - VRChat
 - VTOL VR
 
-# Extremly good story games
+## Extremly good story games
 - Death Stranding
 - Life Is strange: Before the storm
 - Half Life
