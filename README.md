@@ -21,6 +21,4 @@ alt="click here for more informationes" width="870" height="100" border="10" /><
   <img src="/steam.png" width="100" />
   <a href="https://www.twitch.tv/l30zboss"/>
   <img src="/twitch.png" width="100" />
-  <a href="https://twitter.com/L30Z3"/>
-  <img src="/twitter.png" width="100" />
 </p>
