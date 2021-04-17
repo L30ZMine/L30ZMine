@@ -6,6 +6,7 @@
 - i also love playing every kind of game (other than card, and mobile games)
 - some good games --> Death Stranding, Yakuza Like a Dragon & [some others](OTHERGOODGAMES.md)
 - ayo if you have any questions feel free to contact me at L30Zboss@gmail.com
+- also my dc [L30Z#0001](310756225530724353)
 
 <a href="https://github.com/L30ZMine/L30ZMine/blob/main/MOREINFO.md
 " target="_blank"><img src="https://i.imgur.com/DlcFrbK.png" 
