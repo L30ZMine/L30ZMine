@@ -12,7 +12,7 @@
 " target="_blank"><img src="https://i.imgur.com/DlcFrbK.png" 
 alt="click here for more informationes" width="870" height="100" border="10" /></a>
 
-<p float="left">
+<p float="center">
   <a href="http://www.discord.gg/invite/Y2VQWzr"/>
   <img src="/discord2.png" width="210"/>
   <a href="https://open.spotify.com/user/ekenhw5sdz2ya7di7gtkubi4r?si=uYsprdFYQCeXyiMxTqp-1w"/>
