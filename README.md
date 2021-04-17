@@ -15,6 +15,8 @@ alt="click here for more informationes" width="870" height="100" border="10" /><
 <p float="left">
   <a href="http://www.discord.gg/invite/Y2VQWzr"/>
   <img src="/discord.png" width="100"/>
+  <a href="http://www.discord.gg/invite/Y2VQWzr"/>
   <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
+  <a href="https://www.steamcommunity.com/id/L30Zmine"/>
+  <img src="/steam" width="100" />
 </p>
