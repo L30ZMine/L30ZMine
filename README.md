@@ -13,7 +13,7 @@
 alt="click here for more informationes" width="870" height="100" border="10" /></a>
 
 <p float="left">
-  <img src="/img1.png" width="100" />
+  <img src="/discord.png" width="100" href="http://www.discord.gg/invite/Y2VQWzr"/>
   <img src="/img2.png" width="100" /> 
   <img src="/img3.png" width="100" />
 </p>
