@@ -2,7 +2,7 @@
 - Im still trying to learn python 
 - and hopefully some day c#, and the other c things or html or java ¯\\_(ツ)_/¯ 
 - also i use linux and windows
-- i like investing in bitcoin 
+- i like puzzles
 - i also love playing every kind of game (other than card, and mobile games)
 - some good games --> Death Stranding, Yakuza Like a Dragon & [some others](OTHERGOODGAMES.md)
 - ayo if you have any questions feel free to contact me at L30Zboss@gmail.com
