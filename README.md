@@ -14,11 +14,11 @@ alt="click here for more informationes" width="870" height="100" border="10" /><
 
 <p float="left">
   <a href="http://www.discord.gg/invite/Y2VQWzr"/>
-  <img src="/discord.png" width="100"/>
+  <img src="/discord.png" width="200"/>
   <a href="https://open.spotify.com/user/ekenhw5sdz2ya7di7gtkubi4r?si=uYsprdFYQCeXyiMxTqp-1w"/>
-  <img src="/spotify.png" width="100" /> 
+  <img src="/spotify.png" width="200" /> 
   <a href="https://www.steamcommunity.com/id/L30Zmine"/>
-  <img src="/steam.png" width="100" />
+  <img src="/steam.png" width="200" />
   <a href="https://www.twitch.tv/l30zboss"/>
-  <img src="/twitch.png" width="100" />
+  <img src="/twitch.png" width="200" />
 </p>
