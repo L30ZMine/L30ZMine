@@ -14,4 +14,4 @@ alt="click here for more informationes" width="870" height="100" border="10" /><
 
 ICON | ICON | ICON | ICON | ICON | ICON | ICON | ICON
 ------------ | ------------- | ------------ | ------------- | ------------ | ------------- | ------------ | -------------
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) | 
