@@ -12,7 +12,7 @@
 " target="_blank"><img src="https://i.imgur.com/DlcFrbK.png" 
 alt="click here for more informationes" width="870" height="100" border="10" /></a>
 
-        <ul>
+ <ul>
             <li><span class="e-icons e-search"></span></li>
             <li><span class="e-icons e-settings"></span></li>
             <li><span class="e-icons e-upload"></span></li>
