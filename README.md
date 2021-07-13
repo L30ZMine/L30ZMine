@@ -11,3 +11,10 @@
 <a href="https://github.com/L30ZMine/L30ZMine/blob/main/MOREINFO.md
 " target="_blank"><img src="https://i.imgur.com/DlcFrbK.png" 
 alt="click here for more informationes" width="870" height="100" border="10" /></a>
+
+<ul>
+  <li class="item-1">item</li>
+  <li class="item-2">Item 2</li>
+  <li class="item-3">Item 3</li>
+  <li class="item-4">Item 4</li>
+</ul>
