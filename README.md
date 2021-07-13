@@ -12,9 +12,35 @@
 " target="_blank"><img src="https://i.imgur.com/DlcFrbK.png" 
 alt="click here for more informationes" width="870" height="100" border="10" /></a>
 
-<ul>
- <li><span class="e-icons e-search"></span></li>
- <li><span class="e-icons e-settings"></span></li>
- <li><span class="e-icons e-upload"></span></li>
- <li><span class="e-icons e-font"></span></li>
-</ul>
+<html>
+<head>
+    <title>Essential JS 2 </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" charset="utf-8"  />
+    <link href="./node_modules/@syncfusion/ej2/material.css" rel="stylesheet" />
+    <style>
+        .e-icons{
+            color: #00ffff;
+            font-size: 26px;
+        }
+        .e-search:before{
+            content: '\e993';
+        }
+        .e-upload:before{
+            content: '\e725';
+        }
+        .e-font:before{
+            content: '\e34c';
+        }
+    </style>
+</head>
+<body>
+    <div class="icons">
+        <ul>
+            <li><span class="e-icons e-search"></span></li>
+            <li><span class="e-icons e-settings"></span></li>
+            <li><span class="e-icons e-upload"></span></li>
+            <li><span class="e-icons e-font"></span></li>
+        </ul>
+    </div>
+</body>
+</html>
