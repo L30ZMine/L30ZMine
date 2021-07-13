@@ -11,14 +11,3 @@
 <a href="https://github.com/L30ZMine/L30ZMine/blob/main/MOREINFO.md
 " target="_blank"><img src="https://i.imgur.com/DlcFrbK.png" 
 alt="click here for more informationes" width="870" height="100" border="10" /></a>
-
-/ <p float="center">
-/  <a href="http://www.discord.gg/invite/Y2VQWzr"/>
-/  <img src="/discord2.png" width="50"/>
-/  <a href="https://open.spotify.com/user/ekenhw5sdz2ya7di7gtkubi4r?si=uYsprdFYQCeXyiMxTqp-1w"/>
-/  <img src="/spotify2.png" width="50" /> 
-/  <a href="https://www.steamcommunity.com/id/L30Zmine"/>
-/  <img src="/steam2.png" width="50" />
-/  <a href="https://www.twitch.tv/l30zboss"/>
-/  <img src="/twitch2.png" width="50" />
-/</p>
