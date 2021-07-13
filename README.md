@@ -12,6 +12,6 @@
 " target="_blank"><img src="https://i.imgur.com/DlcFrbK.png" 
 alt="click here for more informationes" width="870" height="100" border="10" /></a>
 
-
+ |  |  |  |  |  |  |  |  |  |  | 
 ------------ | ------------- | ------------ | ------------- | ------------ | ------------- | ------------ | -------------
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) | 
