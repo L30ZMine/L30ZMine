@@ -12,7 +12,6 @@
 " target="_blank"><img src="https://i.imgur.com/DlcFrbK.png" 
 alt="click here for more informationes" width="870" height="100" border="10" /></a>
 
-First Header | Second Header | First Header | Second Header
------------- | ------------- | ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+ICON | ICON | ICON | ICON | ICON | ICON | ICON | ICON
+------------ | ------------- | ------------ | ------------- | ------------ | ------------- | ------------ | -------------
+
