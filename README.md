@@ -1,5 +1,5 @@
 <h1  align="center">🖐 HI IM L30Z, but you can call me Lee</h1>
-- Im still learning python 
+<h2 align="left">- Im still learning python</h2> 
 - and hopefully some day c#, and the other c things or html or java ¯\\_(ツ)_/¯ 
 - also i use linux and windows
 - i like puzzles
