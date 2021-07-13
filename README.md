@@ -12,9 +12,9 @@
 " target="_blank"><img src="https://i.imgur.com/DlcFrbK.png" 
 alt="click here for more informationes" width="870" height="100" border="10" /></a>
 
-<ul>
-  <li class="item-1">item</li>
-  <li class="item-2">Item 2</li>
-  <li class="item-3">Item 3</li>
-  <li class="item-4">Item 4</li>
-</ul>
+        <ul>
+            <li><span class="e-icons e-search"></span></li>
+            <li><span class="e-icons e-settings"></span></li>
+            <li><span class="e-icons e-upload"></span></li>
+            <li><span class="e-icons e-font"></span></li>
+        </ul>
