@@ -8,6 +8,6 @@
 - ayo if you have any questions feel free to contact me at L30Zboss@gmail.com
 - also my dc [L30Z#0001](https://www.discord.gg/Y2VQWzr)
 
-<a href="https://github.com/L30ZMine/L30ZMine/blob/main/MOREINFO.md
+<a href="https://youtu.be/juCHVNjHq20
 " target="_blank"><img src="https://i.imgur.com/DlcFrbK.png" 
 alt="click here for more informationes" width="870" height="100" border="10" /></a>
