@@ -8,17 +8,17 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/LekoArts/gatsby-starter-minimal-blog/blob/master/LICENSE">
-    <img src="https://shields.io/discord/742049293992460288" alt="Minimal Blog is released under the 0BSD license." />
+  <a href="discord.gg">
+    <img src="https://shields.io/discord/742049293992460288" alt="discord" />
   </a>
-  <a href="https://github.com/sponsors/LekoArts">
-    <img alt="GitHub Sponsors" src="https://awesome.re/badge.svg">
+  <a href="awesome">
+    <img alt="awesome" src="https://awesome.re/badge.svg">
   </a>
-  <a href="https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter">
+  <a href="L30Zmine.github.io">
     <img alt="Website" src="https://img.shields.io/badge/-website-blue">
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
-    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
+  <a href="https://www.github.com/L30Zmine">
+    <img src="https://shields.io/github/followers/L30Zmine?label=Follow" alt="Follow my dumbass" />
   </a>
 </p>
 
