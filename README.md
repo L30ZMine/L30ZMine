@@ -1,3 +1,45 @@
+<p align="center">
+  <a href="https://minimal-blog.lekoarts.de">
+    <img alt="LekoArts" src="https://user-images.githubusercontent.com/49034296/125606329-a0a6fa77-bb59-4042-af3b-f9806743a59e.png" />
+  </a>
+</p>
+<h1 align="center">
+  Hi im L30Z, but you can call me lee
+</h1>
+
+<p align="center">
+  <a href="https://github.com/LekoArts/gatsby-starter-minimal-blog/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/license-0BSD-blue.svg" alt="Minimal Blog is released under the 0BSD license." />
+  </a>
+  <a href="https://github.com/sponsors/LekoArts">
+    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/LekoArts">
+  </a>
+  <a href="https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter">
+    <img alt="Website" src="https://img.shields.io/badge/-website-blue">
+  </a>
+  <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
+    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 🖐 HI IM L30Z, but you can call me Lee
 - Im still learning python
 - and hopefully some day c#, and the other c things or html or java ¯\\_(ツ)_/¯ 
