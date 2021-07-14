@@ -54,5 +54,6 @@
 " target="_blank"><img src="https://i.imgur.com/DlcFrbK.png" 
 alt="click here for more informationes" width="870" height="100" border="10" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L30Zmine&theme=dark)
 ![L30Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=L30Zmine&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L30Zmine&theme=dark)
+
