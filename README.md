@@ -1,6 +1,6 @@
 <p align="center">
   <a href="helo">
-    <img alt="wewo" src="https://imgur.com/a/rNgKUPn" />
+    <img alt="wewo" src="https://i.imgur.com/aoV8aqB.gif" />
   </a>
 </p>
 <h1 align="center">
