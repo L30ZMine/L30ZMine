@@ -7,7 +7,6 @@
 - some good games --> Death Stranding, Yakuza Like a Dragon & [some others](OTHERGOODGAMES.md)
 - ayo if you have any questions feel free to contact me at L30Zboss@gmail.com
 - also my dc [L30Z#0001](https://www.discord.gg/Y2VQWzr)
---why
 
 <a href="https://github.com/L30ZMine/L30ZMine/blob/main/MOREINFO.md
 " target="_blank"><img src="https://i.imgur.com/DlcFrbK.png" 
