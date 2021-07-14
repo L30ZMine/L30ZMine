@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://minimal-blog.lekoarts.de">
-    <img alt="LekoArts" src="https://user-images.githubusercontent.com/49034296/125606329-a0a6fa77-bb59-4042-af3b-f9806743a59e.png" />
+  <a href="helo">
+    <img alt="wewo" src="https://im7.ezgif.com/tmp/ezgif-7-8bb572d2d460.gif" />
   </a>
 </p>
 <h1 align="center">
