@@ -15,4 +15,4 @@ alt="click here for more informationes" width="870" height="100" border="10" /><
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![L30Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=L30Zmine&show_icons=true&theme=dark)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=L30Zmine)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=L30Zmine)]
