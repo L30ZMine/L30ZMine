@@ -11,3 +11,6 @@
 <a href="https://youtu.be/dQw4w9WgXcQ
 " target="_blank"><img src="https://i.imgur.com/DlcFrbK.png" 
 alt="click here for more informationes" width="870" height="100" border="10" /></a>
+
+![L30Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=L30Zmine&show_icons=true&theme=dark)
+
