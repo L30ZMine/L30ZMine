@@ -22,8 +22,8 @@
   </a>
 </p>
 
-- Im still learning python
-- and hopefully some day c#, and the other c things or html or java ¯\\_(ツ)_/¯ 
+- Im pretty okay at python and learning html web code
+- and hopefully some day c# ¯\\_(ツ)_/¯ 
 - also i use linux and windows
 - i like puzzles
 - i also love playing every kind of game (other than card, and mobile games)
