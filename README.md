@@ -22,8 +22,7 @@
   </a>
 </p>
 
-- Im pretty okay at python and learning html web code
-- and hopefully some day c# ¯\\_(ツ)_/¯ 
+- Im pretty okay at python, c# and learning html web code
 - also i use linux and windows
 - i like puzzles
 - i also love playing every kind of game (other than card, and mobile games)
