@@ -9,7 +9,8 @@
 
 ---
 <p align="center">
-**Languages and Tools:**  
+<h1 align="center">
+  Coding Languages
 <p align="center">
   
 <p align="center">
