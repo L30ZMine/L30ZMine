@@ -11,7 +11,7 @@
 <p align="center">
 <h2 align="center">
   Coding Languages
-<h2 align="center">  
+</h1>
 <p align="center">
   
 <p align="center">
