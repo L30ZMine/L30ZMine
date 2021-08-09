@@ -9,7 +9,7 @@
 
 ---
 <p align="center">
-<h1 align="center">
+<h2 align="center">
   Coding Languages
 <p align="center">
   
