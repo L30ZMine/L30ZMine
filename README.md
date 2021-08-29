@@ -9,16 +9,16 @@
 
 <p align="center">
   <a href="discord.gg">
-    <img src="https://shields.io/discord/742049293992460288" alt="discord" />
+    <img src="https://shields.io/discord/742049293992460288?style=for-the-badge&logo=appveyor" alt="discord" />
   </a>
   <a href="awesome">
     <img alt="awesome" src="https://awesome.re/badge.svg">
   </a>
   <a href="https://L30Zmine.github.io">
-    <img alt="Website" src="https://img.shields.io/badge/-website-blue">
+    <img alt="Website" src="https://img.shields.io/badge/-website-blue?style=for-the-badge&logo=appveyor">
   </a>
   <a href="https://www.github.com/L30Zmine">
-    <img src="https://shields.io/github/followers/L30Zmine?label=Follow" alt="Follow my dumbass" />
+    <img src="https://shields.io/github/followers/L30Zmine?label=Follow?style=for-the-badge&logo=appveyor" alt="Follow my dumbass" />
   </a>
 </p>
 
