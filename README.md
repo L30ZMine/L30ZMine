@@ -8,13 +8,13 @@
 </h1>
 
 <p align="center">
-  <a href="discord.gg">
+  <a href="">
     <img src="https://shields.io/discord/742049293992460288?style=for-the-badge&logo=appveyor" alt="discord" />
   </a>
-  <a href="https://L30Zmine.github.io">
+  <a href="">
     <img alt="Website" src="https://img.shields.io/badge/-website-blue?style=for-the-badge&logo=appveyor">
   </a>
-  <a href="https://www.github.com/L30Zmine">
+  <a href="">
     <img src="https://shields.io/github/followers/L30Zmine?style=for-the-badge&logo=appveyor" alt="Follow my dumbass" />
   </a>
 </p>
