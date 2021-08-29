@@ -27,10 +27,6 @@
 - ayo if you have any questions feel free to contact me at L30Zboss@gmail.com
 - also my dc [L30Z#0001](https://www.discord.gg/Y2VQWzr)
 
-<a href="https://youtu.be/dQw4w9WgXcQ
-" target="_blank"><img src="https://i.imgur.com/DlcFrbK.png" 
-alt="click here for more informationes" width="870" height="100" border="10" /></a>
-
 ---
 
 <p align="center">
@@ -52,3 +48,6 @@ alt="click here for more informationes" width="870" height="100" border="10" /><
 ![L30Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=L30Zmine&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L30Zmine&theme=dark)
 
+<a href="https://youtu.be/dQw4w9WgXcQ
+" target="_blank"><img src="https://i.imgur.com/DlcFrbK.png" 
+alt="click here for more informationes" width="870" height="100" border="10" /></a>
