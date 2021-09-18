@@ -27,7 +27,7 @@
 - ayo if you have any questions feel free to contact me at L30Zboss@gmail.com
 - also my dc [L30Z#0001](https://www.discord.gg/Y2VQWzr)
 
-#hidden(alt.md)
+hidden[alt.md]
 
 ![L30Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=L30Zmine&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L30Zmine&theme=dark)
