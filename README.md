@@ -30,4 +30,4 @@
 ![L30Z's GitHub stats](https://github-readme-stats.vercel.app/api?username=L30Zmine&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L30Zmine&theme=dark)
 
-[hidden](alt.md)
+[ ](alt.md)
