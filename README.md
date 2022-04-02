@@ -11,7 +11,7 @@
   <a href="">
     <img src="https://shields.io/discord/742049293992460288?style=for-the-badge&logo=appveyor" alt="" />
   </a>
-  <a href="l30zmine.github.io">
+  <a href="https://l30zmine.github.io">
     <img alt="" src="https://img.shields.io/badge/-website-blue?style=for-the-badge&logo=appveyor" alt="website">
   </a>
   <a href="">
