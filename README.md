@@ -19,8 +19,8 @@
   </a>
 </p>
 
-- Im pretty good at Html and js buuuut i kinda need to learn python some more
-- also love working in 3d programs like Blender or Unity
+- Im pretty good at Html and js
+- also love working in 3d programs like Blender
 - also i use linux and windows
 - i like puzzles
 - i also love playing every kind of game (other than card, and mobile games)
